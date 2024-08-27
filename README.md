@@ -67,7 +67,7 @@
 | DALL_E_IMAGE_QUALITY    | DALL-E Image quality    | `standard`                  |
 | DALL_E_IMAGE_STYLE      | DALL-E Image style      | `vivid`                     |
 
-## Command
+## Команды
 
 | Command    | Description                                                             | Example                                         |
 |:-----------|:------------------------------------------------------------------------|:------------------------------------------------|
